@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Live 1",
+    "key": "b1",
+    "link1": "http://line.pro-iptv.cc:80/246413/25A419/1478742",
+    "rtmp": "rtmp://p.koora.cloud:1935/dalbouh",
+    "category1": "Cobra 2",
+    "bitrate": "1000k",
+    "resolution": "854x480",
+    "id": "4c094f4a-5699-4435-b111-06ab6a9e240d",
+    "active": false,
+    "createdAt": 1747703975446,
+    "updatedAt": 1747703975446
+  }
+]
